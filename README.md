@@ -1,2 +1,9 @@
-# Python-for-production-and-operation-management
-how to solve several production and operation management using python
+# Python for Production and Operations Management
+This repository offers a number of Python notebooks that describe various production and operations management problems and how to solve them.
+
+## problems:
+* loading problem in scheduling.
+* productivity.
+* Choosing a project site.
+* Plant layout design.
+* Demand prediction.
